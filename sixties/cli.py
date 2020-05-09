@@ -6,4 +6,4 @@ def main(argv=None):
     """Drive the understanding ..."""
     argv = sys.argv if argv is None else argv
 
-    print(argv)
+    return argv
