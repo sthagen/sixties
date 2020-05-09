@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 """Command line arg for sixties."""
+import sys
 
 
 def main(argv=None):
