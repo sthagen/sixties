@@ -7,4 +7,4 @@ Experimental
 ## What is in it
 Probably nothing interest for most visitors.
 
-**Note**: The name of the default branch is `default`.
+**Note**: The default branch is `default`.
