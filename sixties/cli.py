@@ -3,7 +3,7 @@
 import sys
 
 
-def main(argv=None):
+def main(argv=None):  # type: ignore
     """Drive the understanding ..."""
     argv = sys.argv if argv is None else argv
 
