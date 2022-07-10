@@ -15,7 +15,7 @@ setup(
     description="Parsing of fixed width text databases derived in the Seventies from the Sixties' spirit of the previous century.",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/sdrees/python-sixties",
+    url="https://github.com/sdrees/sixties",
     author="Stefan Hagen",
     author_email="stefan@hagen.link",
     license="MIT",
