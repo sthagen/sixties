@@ -1,0 +1,13 @@
+[tool.pyflow]
+name = "sixties"
+py_version = "3.8"
+# [[[fill version_sync()]]]
+version = "0.0.1"
+# [[[end]]]
+authors = ["Stefan Hagen <stefan@hagen.link>"]
+
+[tool.pyflow.scripts]
+
+[tool.pyflow.dependencies]
+
+[tool.pyflow.dev-dependencies]
