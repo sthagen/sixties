@@ -2,7 +2,7 @@
 
 Parsing of fixed width text databases derived in the Seventies from the Sixties' spirit of the previous century.
 
-[License: MIT](https://github.com/sthagen/sixties/blob/default/LICENSE)
+[[License: MIT](https://git.sr.ht/~sthagen/sixties/tree/default/item/LICENSE)
 
 [![version](https://img.shields.io/pypi/v/sixties.svg?style=flat)](https://pypi.python.org/pypi/sixties/)
 [![downloads](https://pepy.tech/badge/sixties/month)](https://pepy.tech/project/sixties)
@@ -10,10 +10,15 @@ Parsing of fixed width text databases derived in the Seventies from the Sixties'
 [![supported-versions](https://img.shields.io/pypi/pyversions/sixties.svg?style=flat)](https://pypi.python.org/pypi/sixties/)
 [![supported-implementations](https://img.shields.io/pypi/implementation/sixties.svg?style=flat)](https://pypi.python.org/pypi/sixties/)
 
-TODO: Third party dependencies are documented in the folder [third-party](third-party/README.md).
+## Documentation
 
-## Status
+User and developer [documentation of sixties](https://codes.dilettant.life/docs/sixties).
 
-Experimental.
+## Bug Tracker
 
-**Note**: The default branch is `default`.
+Feature requests and bug reports are bested entered in the [todos of sixties](https://todo.sr.ht/~sthagen/sixties).
+
+## Primary Source repository
+
+The primary source repository of [sixties is at sourcehut](https://git.sr.ht/~sthagen/sixties)
+a collection of tools useful for software development.
