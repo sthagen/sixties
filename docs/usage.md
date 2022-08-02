@@ -1,3 +1,5 @@
-# Example Usage
+# Usage
+
+## Examples
 
 Later
