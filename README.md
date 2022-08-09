@@ -16,7 +16,7 @@ User and developer [documentation of sixties](https://codes.dilettant.life/docs/
 
 ## Bug Tracker
 
-Feature requests and bug reports are bested entered in the [todos of sixties](https://todo.sr.ht/~sthagen/sixties).
+Feature requests and bug reports are best entered in the [todos of sixties](https://todo.sr.ht/~sthagen/sixties).
 
 ## Primary Source repository
 
