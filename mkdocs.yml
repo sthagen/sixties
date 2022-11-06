@@ -3,6 +3,9 @@ site_description: "Parsing of fixed width text databases derived in the Seventie
 
 theme:
   name: 'material'
+  features:
+    - navigation.expand
+    - toc.integrate
   palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
