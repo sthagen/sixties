@@ -3,6 +3,8 @@ site_description: "Parsing of fixed width text databases derived in the Seventie
 
 theme:
   name: 'material'
+  logo: assets/logo.png
+  favicon: images/favicon.ico
   features:
     - navigation.expand
     - toc.integrate
