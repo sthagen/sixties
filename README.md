@@ -1,8 +1,10 @@
-# sixties
+# Sixties
 
 Parsing of fixed width text databases derived in the Seventies from the Sixties' spirit of the previous century.
 
 [License: MIT](https://git.sr.ht/~sthagen/sixties/tree/default/item/LICENSE)
+
+Third party dependencies are documented in the folder [third-party](third-party/README.md).
 
 [![version](https://img.shields.io/pypi/v/sixties.svg?style=flat)](https://pypi.python.org/pypi/sixties/)
 [![downloads](https://pepy.tech/badge/sixties/month)](https://pepy.tech/project/sixties)
