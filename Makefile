@@ -1,9 +1,8 @@
-SHELL = /bin/bash
-
 .DEFAULT_GOAL := all
-isort = isort sixties test
 black = black -S -l 120 --target-version py310 sixties test
+lint = ruff sixties test
 pytest = pytest --asyncio-mode=strict --cov=sixties --cov-report term-missing:skip-covered --cov-branch --log-format="%(levelname)s %(message)s"
+types = mypy sixties
 
 .PHONY: install
 install:
@@ -17,7 +16,7 @@ install-all: install
 
 .PHONY: format
 format:
-	$(isort)
+	$(lint) --fix
 	$(black)
 
 .PHONY: init
@@ -28,13 +27,12 @@ init:
 .PHONY: lint
 lint:
 	python setup.py check -ms
-	flake8 sixties/ test/
-	$(isort) --check-only --df
+	$(lint)
 	$(black) --check --diff
 
 .PHONY: types
 types:
-	mypy sixties
+	$(types)
 
 .PHONY: test
 test: clean
