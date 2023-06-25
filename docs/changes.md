@@ -1,22 +1,20 @@
-# Change History
+# Changes
 
-## Source
+Source
+:    * Migrated to ruff and to pyproject.toml config
 
-* Migrated to ruff and to pyproject.toml config
+## 2022
 
-## 2022.8.2
-
-* Fixed first and third party software documentation
+2022.8.2
+:    * Fixed first and third party software documentation
 * Added link to todos
 * Migrated away from github
 * Added link to test coverage documentation
 
-## 2022.7.17
+2022.7.17
+:    * Maintenance release with updates in test and dev dependencies as well as type and test fixes
 
-* Maintenance release with updates in test and dev dependencies as well as type and test fixes
+## 2019
 
-## Older
-
-### 2019.10.19 (0.0.1)
-
-* Initial version on PyPI
+2019.10.19 (0.0.1)
+:    * Initial version on PyPI
