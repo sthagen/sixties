@@ -3,23 +3,23 @@
   "spdxVersion" : "SPDX-2.3",
   "creationInfo" : {
     "comment" : "Converted from CycloneDX spec version 1.4",
-    "created" : "2023-06-24T20:41:55Z",
-    "creators" : [ "Tool: CycloneDX:cyclonedx-bom-3.11.0", "Tool: CycloneDX:cyclonedx-python-lib-3.1.1", "Tool: CycloneToSpdx-0.1.4" ],
+    "created" : "2023-08-13T13:29:07Z",
+    "creators" : [ "Tool: CycloneDX:cyclonedx-bom-3.11.2", "Tool: CycloneDX:cyclonedx-python-lib-3.1.5", "Tool: CycloneToSpdx-0.1.4" ],
     "licenseListVersion" : "3.21"
   },
   "name" : "SBOM-for-typer",
   "dataLicense" : "CC0-1.0",
   "annotations" : [ {
-    "annotationDate" : "2023-06-24T20:41:56Z",
+    "annotationDate" : "2023-08-13T13:29:08Z",
     "annotationType" : "OTHER",
     "annotator" : "Tool: CycloneToSpdx",
     "comment" : "MISSING_CDX_PROPERTY:extensions={}"
   } ],
-  "documentNamespace" : "https://cyclonedx/8c764869-063d-49df-91f6-34d3425f09ee_1",
+  "documentNamespace" : "https://cyclonedx/1a54c50a-00df-43f1-a3c6-435451a7d1bd_1",
   "packages" : [ {
-    "SPDXID" : "SPDXRef-f06bcc0f-d649-4766-9449-b70d0013964a",
+    "SPDXID" : "SPDXRef-3d1ed786-c31a-4906-a17b-5c1fcb90d62b",
     "annotations" : [ {
-      "annotationDate" : "2023-06-24T20:41:56Z",
+      "annotationDate" : "2023-08-13T13:29:08Z",
       "annotationType" : "OTHER",
       "annotator" : "Tool: CycloneToSpdx",
       "comment" : "MISSING_CDX_PROPERTY:componentType=\"LIBRARY\""
@@ -28,7 +28,7 @@
     "downloadLocation" : "NOASSERTION",
     "externalRefs" : [ {
       "referenceCategory" : "PACKAGE-MANAGER",
-      "referenceLocator" : "pkg:pypi/typer@0.7.0",
+      "referenceLocator" : "pkg:pypi/typer@0.9.0",
       "referenceType" : "purl"
     } ],
     "filesAnalyzed" : false,
@@ -36,11 +36,11 @@
     "licenseDeclared" : "NOASSERTION",
     "name" : "typer",
     "primaryPackagePurpose" : "LIBRARY",
-    "versionInfo" : "0.7.0"
+    "versionInfo" : "0.9.0"
   } ],
   "relationships" : [ {
     "spdxElementId" : "SPDXRef-DOCUMENT",
     "relationshipType" : "DESCRIBES",
-    "relatedSpdxElement" : "SPDXRef-f06bcc0f-d649-4766-9449-b70d0013964a"
+    "relatedSpdxElement" : "SPDXRef-3d1ed786-c31a-4906-a17b-5c1fcb90d62b"
   } ]
 }
