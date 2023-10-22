@@ -1,0 +1,14 @@
+name: sixties
+description: Parsing of fixed width text databases derived in the Seventies from the Sixties' spirit of the previous century.
+license_spdx: MIT
+version: 2023.10.22
+spec_version: 1.0
+home_url: https://git.sr.ht/~sthagen/sixties
+news_url: https://libraries.io/pypi/sixties/versions.atom
+date: 2023-10-22
+about_resource: ./
+libraries_io_url: https://libraries.io/pypi/sixties?number=2023.10.22
+vcs_tool: git
+vcs_repository: https://git.sr.ht/~sthagen/sixties
+vcs_branch: default
+
