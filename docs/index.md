@@ -2,18 +2,15 @@
 
 Parsing of fixed width text databases derived in the Seventies from the Sixties' spirit of the previous century.
 
-[License: MIT](https://git.sr.ht/~sthagen/sixties/tree/default/item/LICENSE) |
-[Country of origin: Switzerland](https://git.sr.ht/~sthagen/sixties/tree/default/item/COUNTRY-OF-ORIGIN) |
-[Export control classification number(ECCN): EAR99](https://git.sr.ht/~sthagen/sixties/tree/default/item/EXPORT-CONTROL-CLASSIFICATION-NUMBER)
+[![license](badges/license-spdx-mit.svg)](https://git.sr.ht/~sthagen/sixties/tree/default/item/LICENSE)
+[![Country of Origin](badges/country-of-origin-name-switzerland-neutral.svg)](https://git.sr.ht/~sthagen/sixties/tree/default/item/COUNTRY-OF-ORIGIN)
+[![Export Classification Control Number (ECCN)](badges/export-control-classification-number_eccn-ear99-neutral.svg)](https://git.sr.ht/~sthagen/sixties/tree/default/item/EXPORT-CONTROL-CLASSIFICATION-NUMBER)
+[![Configuration](badges/configuration-sbom.svg)](third-party/index.html)
 
-Third party dependencies are documented in the folder [third-party](third-party/README.md).
-
-[![version](https://img.shields.io/pypi/v/sixties.svg?style=flat)](https://pypi.python.org/pypi/sixties/)
-[![downloads](https://static.pepy.tech/badge/sixties/month)](https://pepy.tech/project/sixties)
-[![wheel](https://img.shields.io/pypi/wheel/sixties.svg?style=flat)](https://pypi.python.org/pypi/sixties/)
-[![supported-versions](https://img.shields.io/pypi/pyversions/sixties.svg?style=flat)](https://pypi.python.org/pypi/sixties/)
-[![supported-implementations](https://img.shields.io/pypi/implementation/sixties.svg?style=flat)](https://pypi.python.org/pypi/sixties/)
-[![maintenance-status](https://img.shields.io/github/commit-activity/y/sthagen/sixties.svg?style=flat)](https://git.sr.ht/~sthagen/sixties/log)
+[![Version](https://img.shields.io/pypi/v/sixties.svg?style=flat)](https://pypi.python.org/pypi/sixties/)
+[![Downloads](https://static.pepy.tech/badge/sixties/month)](https://pepy.tech/project/sixties)
+[![Supported Versions](https://img.shields.io/pypi/pyversions/sixties.svg?style=flat)](https://pypi.python.org/pypi/sixties/)
+[![Maintenance Status](https://img.shields.io/github/commit-activity/y/sthagen/sixties.svg?style=flat)](https://git.sr.ht/~sthagen/sixties/log)
 
 ## Bug Tracker
 
