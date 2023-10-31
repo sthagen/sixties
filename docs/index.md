@@ -9,7 +9,7 @@ Parsing of fixed width text databases derived in the Seventies from the Sixties'
 
 [![Version](badges/latest-release.svg)](https://pypi.python.org/pypi/sixties/)
 [![Downloads](badges/downloads-per-month.svg)](https://pepy.tech/project/sixties)
-[![Supported Versions](https://img.shields.io/pypi/pyversions/sixties.svg?style=flat)](https://pypi.python.org/pypi/sixties/)
+[![Python](badges/python-versions.svg)](https://pypi.python.org/pypi/sixties/)
 [![Maintenance Status](badges/commits-per-year.svg)](https://git.sr.ht/~sthagen/sixties/log)
 
 ## Bug Tracker
