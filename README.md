@@ -7,7 +7,7 @@ Parsing of fixed width text databases derived in the Seventies from the Sixties'
 [![Export Classification Control Number (ECCN)](docs/badges/export-control-classification-number_eccn-ear99-neutral.svg)](https://git.sr.ht/~sthagen/sixties/tree/default/item/EXPORT-CONTROL-CLASSIFICATION-NUMBER)
 [![Configuration](docs/badges/configuration-sbom.svg)](https://git.sr.ht/~sthagen/sixties/tree/default/item/docs/third-party/README.md)
 
-[![Version](https://img.shields.io/pypi/v/sixties.svg?style=flat)](https://pypi.python.org/pypi/sixties/)
+[![Version](docs/badges/latest-release.svg)](https://pypi.python.org/pypi/sixties/)
 [![Downloads](docs/badges/downloads-per-month.svg)](https://pepy.tech/project/sixties)
 [![Supported Versions](https://img.shields.io/pypi/pyversions/sixties.svg?style=flat)](https://pypi.python.org/pypi/sixties/)
 [![Maintenance Status](docs/badges/commits-per-year.svg)](https://git.sr.ht/~sthagen/sixties/log)
