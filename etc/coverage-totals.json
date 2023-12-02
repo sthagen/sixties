@@ -1,7 +1,7 @@
 {
   "sixties": {
-    "version": "7.3.2",
-    "timestamp": "2023-12-02T15:33:41.418829",
+    "coverage_tool_version": "7.3.2",
+    "timestamp": "2023-12-02 16:30:14 +00:00",
     "branch_coverage": true,
     "show_contexts": true,
     "covered_lines": 9,
@@ -13,6 +13,21 @@
     "num_branches": 2,
     "num_partial_branches": 0,
     "covered_branches": 2,
-    "missing_branches": 0
+    "missing_branches": 0,
+    "node_id": "c79891e5-aabf-3a83-95b9-588edcd8327f",
+    "nfiles": 2,
+    "files": [
+      "sixties/__init__.py",
+      "sixties/cli.py"
+    ],
+    "blake3": "eb2e6479dbaf2957ccb4d696f75001eb39cafd0e74260ff0535b36d4b42e935d",
+    "blake2": "66b3015fa338c282431adb1c02b778e08b2f5b1d2c797b1d45849992af2f6d7907db74ad31e741bd83a699214f60354730b67535c3a5d12f8c01d42d727bb97f",
+    "sha512": "62e5a0351de74202e812c639200ce186cb3eae454dd86a271f711eecb9d8ef3d44be88cac0b124b03d3a608f6a6fbf8c10f39ca83f24c89386b176972f727655",
+    "sha384": "25a06bd8a732eb7b77f990f037abb22ea81653b7d9064a130331af33709d30e3dd2fd4f90c456faae5556df3a48bba62",
+    "sha256": "1e467ee9af2c825758b214483baa934f3a624df6f283b59c42230380117ff399",
+    "sha1": "62234c728ac3e22acef066c980f0b0e3a14a129f",
+    "md5": "4362ea9c1a2b3925821fb811cb28cbb8",
+    "python_version": "3.10.12",
+    "entropy": 5.033012
   }
 }
