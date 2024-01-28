@@ -7,6 +7,7 @@ name = "sixties"
 version = "2023.10.22"
 description = "Parsing of fixed width text databases derived in the Seventies from the Sixties' spirit of the previous century."
 readme = "README.md"
+license = {file = "LICENSE"}
 authors = [{ name = "Stefan Hagen", email = "stefan@hagen.link" }]
 maintainers = [{ name = "Stefan Hagen", email = "stefan@hagen.link" }]
 classifiers = [
